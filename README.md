@@ -5,6 +5,11 @@
 
 ![image](https://user-images.githubusercontent.com/43177979/160285260-75f6767e-08b7-42e9-831f-12ce42a6d5a9.png)
 
-ссылка на коллаб https://colab.research.google.com/drive/1F1sqH-B5Itmp6QXnyBXltDkDHCQCWjfo?usp=sharing
+ссылка на коллаб https://colab.research.google.com/drive/1q9EEgUVO8oou_zuTv_qvdbmcMuqN04Hs#scrollTo=GknzihCXiuZr
 
-[cellmarkfiletable.txt](https://github.com/midzukami/hse_hw3_chromhmm/files/8357973/cellmarkfiletable.txt)
+
+[cellmarkfiletable.txt](https://github.com/midzukami/hse_hw3_chromhmm/files/8358236/cellmarkfiletable.txt)
+
+
+
+
