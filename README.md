@@ -19,6 +19,6 @@
 
 UCSC GenomeBrowser
 
-![image](https://user-images.githubusercontent.com/43177979/160297430-354accf9-cee0-46a1-a519-315d81fe3767.png)
+![image](https://user-images.githubusercontent.com/43177979/160299462-42f0118e-5d77-4b23-9afd-a8c7d04f382f.png)
 
 
