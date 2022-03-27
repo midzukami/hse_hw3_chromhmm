@@ -7,3 +7,4 @@
 
 ссылка на коллаб https://colab.research.google.com/drive/1F1sqH-B5Itmp6QXnyBXltDkDHCQCWjfo?usp=sharing
 
+[cellmarkfiletable.txt](https://github.com/midzukami/hse_hw3_chromhmm/files/8357973/cellmarkfiletable.txt)
